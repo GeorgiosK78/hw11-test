@@ -1,4 +1,4 @@
-package de.uni.koeln.sse.se;
+package main;
 
 public class Main {
 	
