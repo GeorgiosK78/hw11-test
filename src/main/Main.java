@@ -6,7 +6,7 @@ public class Main {
 		
 		debuggingExercise1_2();
 		
-		//debuggingExercise3();
+		///debuggingExercise3();
 				
 	}
 
