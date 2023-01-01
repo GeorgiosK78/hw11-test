@@ -23,6 +23,6 @@ public class Items {
     public Integer getPrice(String item) {
     	return priceMap.get(item);
     }
-
+;
 
 }
