@@ -15,7 +15,7 @@ public class ShoppingBasket {
 	
 	public void addTobasket(String item) {
 		
-
+//
 		setTotalPrice(getTotalPrice()+ item_list.getPrice(item));
 			
 		
