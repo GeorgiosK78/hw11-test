@@ -58,7 +58,7 @@ public class MonthPoem {
             case SEPTEMBER:
                 System.out.println("  Warm September brings the fruit;\n"
                 		+ "    Sportsmen then begin to shoot.");
-                break;
+                break;;
            
             case OCTOBER: 
                 System.out.println("Fresh October brings the pheasant;\n"
